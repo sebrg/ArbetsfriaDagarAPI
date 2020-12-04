@@ -39,16 +39,3 @@ function getYear() {
 
 
 
-
-
-
-/* let testPromise = new Promise((resolve, reject) => {
-    resolve("success") //.then kör denna funktion
-    reject("Error") //.catch kör denna. 
-})
-
-testPromise.then((value) => {
-    console.log(value)
-}).catch((error) => {
-    console.log(error)
-})  */
